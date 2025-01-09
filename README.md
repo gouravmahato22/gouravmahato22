@@ -1,7 +1,7 @@
 ![logo](https://github.com/gouravmahato22/gouravmahato22/blob/main/banner.jfif)
 <h1 align="center">Hi 👋, I'm Gourav Mahato</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravmahato22&label=Profile%20views&color=0e75b6&style=flat" alt="gouravmahato22" /> </p>
 
 - 🔭 I’m currently working on Cricket Analytics **IPL Win Predictor**
